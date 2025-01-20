@@ -12,3 +12,20 @@ h1,h2{ text-align:center}
 audio{
 	background-color:#cccccc
 }
+video{
+	background-color:rgb(255, 255, 255);
+	padding:2px
+	
+}
+
+li{
+	list-style-type:none
+}
+.player_one{
+	background-color:rgb(255, 255, 255);
+	
+}
+.player_two{
+	background-color:rgb(255, 255, 255);
+	
+}
