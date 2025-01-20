@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+h1,h2{ text-align:center}
+.player_one
+{
+	border:2px solid black;
+	border-radius:10px
+}
+.player_two{
+	text-align:center
+}
+
+audio{
+	background-color:#cccccc
+}
